@@ -19,6 +19,14 @@ This repository helps teams define and manage:
 - reliability scorecards
 - incident review practices
 
+## How To Use This Repo
+
+1. Read the framework overview.
+2. Review the SRE operating model and SLO/SLI governance.
+3. Use the scorecard and templates to assess current state.
+4. Review maturity, incident, and error budget practices.
+5. Track reliability progress over time using the dashboard and metrics.
+
 ## Core Content
 
 - [SRE Reliability Operations Map](models/sre-reliability-operations-map.md)
@@ -58,10 +66,3 @@ This repository helps teams define and manage:
 - [SLO-Driven Cloud Architecture](../slo-driven-cloud-architecture/README.md)
 - [Predictive Reliability Models](../predictive-reliability-models/README.md)
 - [Self-Healing Cloud Operations](../self-healing-cloud-operations/README.md)
-
-## Start Here
-
-1. Read the framework overview.
-2. Review the SRE operating model and SLO/SLI governance.
-3. Use the templates and scorecard to assess current state.
-4. Expand dashboard and incident management content next.

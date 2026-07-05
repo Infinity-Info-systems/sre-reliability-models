@@ -6,7 +6,7 @@ This index organizes the repo into a front door for SRE reliability modeling, go
 
 ## Entry Points
 
-- [SRE Reliability Operations Map](models/sre-reliability-operations-map.md)
+- [SRE Reliability Operations Map](../models/sre-reliability-operations-map.md)
 - [Framework Overview](./framework-overview.md)
 - [SRE Operating Model](./sre-operating-model.md)
 - [SLO/SLI Governance](./slo-sli-governance.md)
@@ -37,4 +37,3 @@ This index organizes the repo into a front door for SRE reliability modeling, go
 ## Shared Direction
 
 Use the same section structure as the other core repos so reliability content stays reusable and easy to extend.
-
