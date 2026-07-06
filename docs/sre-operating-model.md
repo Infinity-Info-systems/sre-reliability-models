@@ -11,6 +11,8 @@ The operating model defines how service ownership, reliability objectives, incid
 - error budget review
 - incident review
 - improvement backlog
+- reliability reporting
+- change review
 
 ## Operating Questions
 
@@ -25,3 +27,8 @@ The operating model defines how service ownership, reliability objectives, incid
 - review notes
 - improvement backlog
 - incident records
+- recurring incidents
+
+## Operating Outcome
+
+The operating model should make it clear who owns reliability, how decisions get made, and how improvements move from issue to closure.

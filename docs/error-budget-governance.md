@@ -10,6 +10,7 @@ Error budget governance defines how reliability tradeoffs are made when service 
 - set response rules when budgets are exhausted
 - align delivery decisions to service health
 - review recurring budget burn
+- define leadership escalation thresholds
 
 ## Questions To Ask
 
@@ -24,3 +25,7 @@ Error budget governance defines how reliability tradeoffs are made when service 
 - burn reports
 - release review notes
 - leadership escalations
+
+## Outcome
+
+Error budgets should help the team make a clear tradeoff between shipping speed and service stability.

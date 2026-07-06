@@ -35,3 +35,7 @@ Reliability maturity shows how advanced the organization is at measuring, managi
 - reliability is continuously improved
 - learning loops are strong
 - automation supports response and prevention
+
+## Use Guidance
+
+Use this maturity model to decide whether the reliability practice is ready to scale or still needs foundational ownership and review discipline.

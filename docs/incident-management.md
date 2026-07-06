@@ -12,6 +12,8 @@ Incident management defines how incidents are detected, triaged, resolved, revie
 - recover
 - review
 - improve
+- recur analysis
+- executive follow-up
 
 ## Operating Questions
 
@@ -26,3 +28,7 @@ Incident management defines how incidents are detected, triaged, resolved, revie
 - response notes
 - postmortems
 - action logs
+
+## Use
+
+Use this page to connect incident handling with the improvement backlog so issues do not disappear after recovery.

@@ -20,3 +20,8 @@
 
 - what counts as a breach
 - what action follows a breach
+- who reviews the target
+
+## Use
+
+Use this template to define a service target in a way that teams can actually operate and review.

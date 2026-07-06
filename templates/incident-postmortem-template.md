@@ -20,3 +20,9 @@
 - owner
 - due date
 - status
+
+## Learning Notes
+
+- what happened
+- why it happened
+- how recurrence will be prevented

@@ -10,6 +10,7 @@ SLO/SLI governance ensures teams define meaningful targets and review them consi
 - review SLOs on a recurring cadence
 - tie alerts to service outcomes
 - track breaches and error budget consumption
+- define what counts as an actionable breach
 
 ## Questions To Ask
 
@@ -24,3 +25,7 @@ SLO/SLI governance ensures teams define meaningful targets and review them consi
 - SLI definitions
 - review notes
 - breach records
+
+## Use
+
+Use this page to show that SLOs are living operational targets, not static documentation.

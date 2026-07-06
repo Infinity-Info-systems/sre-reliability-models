@@ -11,6 +11,11 @@ Measure how mature the reliability practice is across services and teams.
 - error budget governance
 - service ownership
 - reliability trend management
+- incident learning quality
+
+## Use
+
+Use this scorecard to summarize how mature the reliability practice is across services and teams.
 
 ## Example Scale
 

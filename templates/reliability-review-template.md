@@ -12,9 +12,16 @@
 - gaps
 - risks
 - actions
+- evidence references
 
 ## Score Summary
 
 - SLO discipline
 - incident maturity
 - error budget governance
+
+## Review Notes
+
+- key decision
+- next steps
+- owner

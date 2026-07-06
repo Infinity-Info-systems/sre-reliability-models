@@ -3,6 +3,7 @@
 ## Purpose
 
 This index organizes the repo into a front door for SRE reliability modeling, governance, and operational improvement.
+Use it to get from reliability strategy to the right operating artifact quickly.
 
 ## Entry Points
 
@@ -28,6 +29,15 @@ This index organizes the repo into a front door for SRE reliability modeling, go
 - [Reliability Review Template](../templates/reliability-review-template.md)
 - [Incident Postmortem Template](../templates/incident-postmortem-template.md)
 
+## Reading Order
+
+1. Framework overview
+2. SRE operating model
+3. SLO/SLI governance
+4. Error budget governance
+5. Reliability maturity and incident management
+6. Scorecards, templates, and dashboard
+
 ## References
 
 - [Bibliography](../references/bibliography.md)
@@ -37,3 +47,4 @@ This index organizes the repo into a front door for SRE reliability modeling, go
 ## Shared Direction
 
 Use the same section structure as the other core repos so reliability content stays reusable and easy to extend.
+Keep the pages readable enough for service owners and explicit enough for leadership review.

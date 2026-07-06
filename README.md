@@ -5,6 +5,7 @@
 This repository contains SRE reliability models for maturity, error budgets, availability, and incident management.
 
 It focuses on SLO and SLI governance, reliability score modeling, and operational improvement workflows.
+It is meant to help teams run reliability as a measurable operating practice rather than an ad hoc response function.
 
 ## Why It Matters
 
@@ -18,6 +19,17 @@ This repository helps teams define and manage:
 - MTTR reduction models
 - reliability scorecards
 - incident review practices
+- service ownership clarity
+- learning loops and improvement backlogs
+- reliability reporting for leadership
+
+## Content Model
+
+This repository works best when the pages are used in three layers:
+
+- operating model and governance pages
+- analytical models and scorecards
+- review templates and reporting artifacts
 
 ## How To Use This Repo
 
@@ -26,6 +38,7 @@ This repository helps teams define and manage:
 3. Use the scorecard and templates to assess current state.
 4. Review maturity, incident, and error budget practices.
 5. Track reliability progress over time using the dashboard and metrics.
+6. Keep terminology consistent across models, scorecards, and templates.
 
 ## Core Content
 
@@ -42,6 +55,7 @@ This repository helps teams define and manage:
 - [Availability Model](models/availability-model.md)
 - [MTTR Reduction Model](models/mttr-reduction-model.md)
 - [Reliability Score Model](models/reliability-score-model.md)
+- [Reliability Maturity](docs/reliability-maturity.md)
 
 ## Scorecards and Dashboards
 
@@ -59,6 +73,10 @@ This repository helps teams define and manage:
 - [Bibliography](references/bibliography.md)
 - [Research Links](publications/research-links.md)
 - [Impact Metrics](evidence/impact-metrics.md)
+
+## Operating Principle
+
+Reliability work should make service health visible, make tradeoffs explicit, and make follow-up action unavoidable.
 
 ## Ecosystem Links
 
