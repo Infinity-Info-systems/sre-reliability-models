@@ -6,6 +6,18 @@ This repository gives SRE teams a practical model for defining reliability objec
 It provides a shared way to discuss service health, tradeoffs, and improvement priorities.
 The framework is meant to make reliability decisions easier to compare and easier to explain.
 
+## Operating Flow
+
+```mermaid
+flowchart LR
+    A["Service Goals"] --> B["SLO / SLI"]
+    B --> C["Error Budgets"]
+    C --> D["Incident Response"]
+    D --> E["Learning Review"]
+    E --> F["Reliability Backlog"]
+    F --> G["Trend Reporting"]
+```
+
 ## What It Covers
 
 - SLO and SLI governance
@@ -53,3 +65,13 @@ Use this framework when you need to explain how reliability decisions are made, 
 - review template
 - incident template
 - maturity model
+
+## Reliability Layers
+
+| Layer | Question | Artifact |
+| --- | --- | --- |
+| Targets | What are we trying to protect? | SLO/SLI template |
+| Control | How do we manage tradeoffs? | Error budget governance |
+| Response | What happens when service health fails? | Incident template |
+| Improvement | What changes next? | Reliability review template |
+| Measurement | How do we know it improved? | KPI dashboard |

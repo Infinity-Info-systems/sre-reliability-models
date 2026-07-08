@@ -36,6 +36,20 @@ Reliability maturity shows how advanced the organization is at measuring, managi
 - learning loops are strong
 - automation supports response and prevention
 
+## Maturity Summary Table
+
+| Stage | Operating Signal | Typical Risk |
+| --- | --- | --- |
+| 1 | Reactive and unclear | High service variability |
+| 2 | Defined in pockets | Uneven adoption |
+| 3 | Repeatable in core areas | Remaining gaps visible |
+| 4 | Measured and reviewed | Lower uncertainty |
+| 5 | Continuously improving | Strong reliability discipline |
+
 ## Use Guidance
 
 Use this maturity model to decide whether the reliability practice is ready to scale or still needs foundational ownership and review discipline.
+
+## Maturity Rule
+
+If service health cannot be measured, the maturity score should not be allowed to drift upward without evidence.
