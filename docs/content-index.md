@@ -4,6 +4,7 @@
 
 This index organizes the repo into a front door for SRE reliability modeling, governance, and operational improvement.
 Use it to get from reliability strategy to the right operating artifact quickly.
+The page order is designed to move from operating model into the reusable review and reporting assets.
 
 ## Entry Points
 
@@ -48,3 +49,4 @@ Use it to get from reliability strategy to the right operating artifact quickly.
 
 Use the same section structure as the other core repos so reliability content stays reusable and easy to extend.
 Keep the pages readable enough for service owners and explicit enough for leadership review.
+If a page does not help set a target, explain a tradeoff, or guide an incident response, move that detail into a more specific artifact.

@@ -6,6 +6,7 @@ This repository contains SRE reliability models for maturity, error budgets, ava
 
 It focuses on SLO and SLI governance, reliability score modeling, and operational improvement workflows.
 It is meant to help teams run reliability as a measurable operating practice rather than an ad hoc response function.
+The repository should also be easy to reference from the parent MCGR page so the reliability library is visible as part of the larger ecosystem.
 
 ## Why It Matters
 
@@ -22,6 +23,14 @@ This repository helps teams define and manage:
 - service ownership clarity
 - learning loops and improvement backlogs
 - reliability reporting for leadership
+
+## Where This Fits In The Ecosystem
+
+- [MCGR Framework](../MCGR-Framework/README.md)
+- [MCGR Public Page](../MCGR-Framework/README.md#featured-research-spotlight)
+- [SLO-Driven Cloud Architecture](../slo-driven-cloud-architecture/README.md)
+- [Predictive Reliability Models](../predictive-reliability-models/README.md)
+- [Self-Healing Cloud Operations](../self-healing-cloud-operations/README.md)
 
 ## Content Model
 
@@ -77,6 +86,16 @@ This repository works best when the pages are used in three layers:
 ## Operating Principle
 
 Reliability work should make service health visible, make tradeoffs explicit, and make follow-up action unavoidable.
+
+## Quick View
+
+| Reliability Area | What It Governs | Typical Artifact |
+| --- | --- | --- |
+| SLOs / SLIs | Service targets and signals | SLO/SLI template |
+| Error budgets | Release pacing and escalation | Error budget governance |
+| Incident management | Response and learning | Incident postmortem |
+| Maturity | Improvement sequencing | SRE maturity scorecard |
+| Reporting | Leadership visibility | KPI dashboard |
 
 ## Ecosystem Links
 
