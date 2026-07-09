@@ -71,6 +71,11 @@ This repository works best when the pages are used in three layers:
 - [SRE Maturity Scorecard](scorecards/sre-maturity-scorecard.md)
 - [Reliability KPI Dashboard](dashboards/reliability-kpi-dashboard.md)
 
+## Code Direction
+
+This repo now includes a typed reliability registry in `src/` so SLOs, error budgets, and service health models can be reused in tooling or future app surfaces.
+The code layer mirrors the operating flow, reliability layers, and improvement logic described in the framework pages.
+
 ## Templates
 
 - [SLO/SLI Template](templates/slo-sli-template.md)
